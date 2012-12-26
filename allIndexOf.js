@@ -1,5 +1,8 @@
 /**
+ * https://github.com/ezgraphs/underscore-mixins/blob/master/allIndexOf.js
+ * 
  * Little helper function that finds all indexes containing a given boolean value.
+ * 
  */
 _.mixin({
   allIndexOf : function(array, boolean) {
